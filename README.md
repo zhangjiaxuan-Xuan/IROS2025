@@ -15,7 +15,7 @@ Please check back later for links to the official arXiv publication and conferen
 
 **中文：**
 本仓库仅作为论文的**临时暂存地址**。论文的正式版本将发布在：
-- **arXiv**：预印本将很快上传至arXiv
+- **arXiv**：https://arxiv.org/abs/2510.24676
 - **IROS2025会议**：论文已被接收，将被EI数据库索引
 
 请稍后查看arXiv正式发布链接和会议论文集。
@@ -25,5 +25,5 @@ Please check back later for links to the official arXiv publication and conferen
 ## Status / 状态
 
 🔄 **Current Status**: Temporary repository / 临时仓库  
-📝 **arXiv Upload**: Pending / 待上传  
+📝 **arXiv Upload**: Ready / 已上传  
 📚 **IROS2025 EI Indexing**: Will be updated / 将会更新
